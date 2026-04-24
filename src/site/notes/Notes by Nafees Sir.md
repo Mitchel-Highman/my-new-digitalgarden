@@ -7,4 +7,3 @@ Hi! This is Nafees Sir, your favorite tutor to accompany you throughout your aca
 [[From HackMD/pH এর ধারণা\|pH এর ধারণা]]
 [[Capacities Imports/I hate myself because of ADHD\|I hate myself because of ADHD]]
 
-[[Chemistry.base]]
