@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/capacities-imports/i-hate-myself-because-of-adhd/","title":"I hate myself because of ADHD","tags":["RandomThought"],"dg-note-properties":{"type":"Page","title":"I hate myself because of ADHD","aliases":null,"description":null,"createdAt":"2024-12-14T09:22:28.088Z","lastUpdated":"2025-01-04T12:57:32.791Z","tags":["RandomThought"]}}
+{"dg-publish":true,"permalink":"/Capacities Imports/I hate myself because of ADHD/","title":"I hate myself because of ADHD","tags":["RandomThought"],"dg-note-properties":{"type":"Page","title":"I hate myself because of ADHD","aliases":null,"description":null,"createdAt":"2024-12-14T09:22:28.088Z","lastUpdated":"2025-01-04T12:57:32.791Z","tags":["RandomThought"]}}
 ---
 
 

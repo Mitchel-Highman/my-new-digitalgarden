@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/from-hack-md/p-h/","title":"pH এর ধারণা","dg-note-properties":{"title":"pH এর ধারণা"}}
+{"dg-publish":true,"permalink":"/From HackMD/pH এর ধারণা/","title":"pH এর ধারণা","dg-note-properties":{"title":"pH এর ধারণা"}}
 ---
 
 
@@ -83,15 +83,11 @@ $$
 **সমাধান:**
 
 
-💡
+💡 H₂SO₄ ভেঙে **২টা H⁺** আয়ন দেয়। তাই এর ঘনত্বকে ২ দিয়ে গুণ করতে হবে।
 
-H₂SO₄ ভেঙে **২টা H⁺** আয়ন দেয়। তাই এর ঘনত্বকে ২ দিয়ে গুণ করতে হবে।
+$$ [H⁺] = 0.2 M × 2 = 0.4 M $$
 
-
-
-$\begin{aligned} [H⁺] &= 0.2 M × 2 \\ &= 0.4 M \end{aligned}$
-
-$\begin{aligned} pH &= -log (0.4) \\ &≈ 0.40 \end{aligned}$
+$$\begin{aligned} pH &= -log (0.4) \\ &≈ 0.40 \end{aligned}$$
 
 ## <font color="#155DFC">**২. ক্ষারের pH বের করার নিয়ম:**</font>
 
